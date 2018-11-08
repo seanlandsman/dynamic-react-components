@@ -1,11 +1,7 @@
 import React, {Component} from 'react';
 import {Library} from "./library";
 
-class App extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-
+class App extends Component {
     componentDidMount() {
         this.library = new Library(this.eGridDiv)
     }

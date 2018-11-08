@@ -1,7 +1,5 @@
 
-## Available Scripts
-
-In the project directory, you can run:
+### `yarn install`
 
 ### `npm start`
 
